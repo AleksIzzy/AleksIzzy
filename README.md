@@ -16,7 +16,7 @@ I’m especially interested in how **AI agents** and **creative tools** can beco
 
 ## Featured work
 
-
+### [AI Agent Product Marketing Portfolio](https://github.com/AleksIzzy/ai-agent-product-marketing-portfolio)
 <!--
 **AleksIzzy/AleksIzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
